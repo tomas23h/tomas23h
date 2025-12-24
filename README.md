@@ -1,85 +1,58 @@
 <div align="center">
 
-<h2>👋 I'm Tomas</h2>
-<p>Mobile & Web Developer 👨‍💻 · Working remotely since 2025 🚀</p>
-<p><strong>⚡ Ready for any challenge</strong></p>
+# 👋 Hi, I'm Tomas
+
+**Mobile & Web Developer** | Working remotely since 2025
+
+*Building digital experiences with modern technologies*
 
 </div>
 
-<br/>
+---
 
-<h2 align="center">🛠️ My Skill Set</h2>
+## 💼 About Me
 
-<table align="center">
-<tr>
+I'm a full-stack developer passionate about creating seamless mobile and web applications. With experience across the entire development stack, I enjoy tackling complex challenges and turning ideas into reality.
 
-<td align="center" width="33%">
+## 🚀 Tech Stack
 
-<h3>Frontend</h3>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50"/></a>
-<a href="https://flutter.dev/"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50"/></a>
-<a href="https://kotlinlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
-<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="50"/></a>
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</td>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-<td align="center" width="33%">
+### Tools & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3>Backend</h3>
+---
 
-<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
-<a href="https://spring.io/"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50"/></a>
-<a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50"/></a>
-<a href="https://firebase.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50"/></a>
-<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
-<a href="https://mariadb.org/"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50"/></a>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>DevOps</h3>
-
-<a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
-<a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a>
-<a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/></a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">🔗 Connect with me</h2>
+## 📫 Let's Connect
 
 <div align="center">
-<a href="https://github.com/tomas23h">
-<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://x.com/_tomas23h">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/haro-francisco-tomas-junior-674366388/">
-<img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomas23h)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_tomas23h)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haro-francisco-tomas-junior-674366388/)
+
 </div>
 
+---
 
-<!--
-**tomas23h/tomas23h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>⚡ Always ready for the next challenge</i>
+</div>
