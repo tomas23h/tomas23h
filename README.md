@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tomas
 
-**Android & Multiplatform Mobile Developer** | Kotlin • Jetpack Compose • KMP  
+**Android & Multiplatform Mobile Developer** | Kotlin • Jetpack Compose • KMP • Flutter
 
 *Building high-quality mobile experiences with modern Android and multiplatform technologies*
 
